@@ -1,5 +1,7 @@
 # aoc-input
 
+[![GitHub release](https://img.shields.io/github/release/Seres67/aoc-input.svg)](https://github.com/Seres67/aoc-input/releases)
+
 TODO: Write a description here
 
 ## Installation
