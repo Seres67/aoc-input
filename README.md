@@ -9,7 +9,7 @@ TODO: Write a description here
    ```yaml
    dependencies:
      aoc-input:
-       github: your-github-user/aoc-input
+       github: Seres67/aoc-input
    ```
 
 2. Run `shards install`
@@ -28,7 +28,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/aoc-input/fork>)
+1. Fork it (<https://github.com/Seres67/aoc-input/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -36,4 +36,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Laurent](https://github.com/your-github-user) - creator and maintainer
+- [Seres67](https://github.com/Seres67) - creator and maintainer
