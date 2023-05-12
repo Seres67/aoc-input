@@ -1,9 +1,7 @@
 require "./spec_helper"
 
-describe Aoc::Input do
-  # TODO: Write tests
+include AOC::Input
 
-  it "works" do
-    false.should eq(true)
-  end
+describe AOC::Input do
+  # TODO: Write tests
 end
