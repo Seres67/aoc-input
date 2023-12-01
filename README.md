@@ -20,9 +20,10 @@ TODO: Write a description here
 
 ```crystal
 require "aoc-input"
-```
+include AOC::Input
 
-TODO: Write usage instructions here
+get_input(day, year)
+```
 
 ## Development
 
